@@ -6,7 +6,7 @@ Cloud Engineer
 
 I have been working in IT for the past 5years: first as a network engineer, then as an IT support specialist and finally delving into cloud computing where I find the most fulfillment. Being a cloud engineer is fascinating as I get to interact with several tools to deliver on the job. My cloud skills include AWS, Azure, and Google Cloud services.
 
-* 🌍  I'm based in Lagos, Nigeria
+* 🌍  I'm based in Dublin, Ireland
 * ✉️  You can contact me at [vikikef2@gmail.com](mailto:vikikef2@gmail.com)
 * 🧠  I'm learning Terraform, Kubernetes, Docker
 * 🤝  I'm open to collaborating on Web3 projects
