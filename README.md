@@ -1,15 +1,15 @@
 Hi 👋 My name is Victoria Ekefre
 ================================
 
-Cloud Engineer
+IT Professional
 --------------
 
-I have been working in IT for the past 4years: first as a network engineer, then as an IT support specialist, and finally delving into cloud computing where I find the most fulfillment. Being a cloud engineer is fascinating as I get to interact with several tools to deliver on the job. 
+I have been working in IT for the past 7 years: first as a network engineer, then as an IT support specialist, and finally delving into cloud computing where I find the most fulfillment. Being a cloud engineer is fascinating as I get to interact with several tools to deliver on the job. 
 
 * 🌍  I'm based in Dublin, Ireland
 * ✉️  You can contact me at [vikikef2@gmail.com](mailto:vikikef2@gmail.com)
-* 🧠  I'm learning Terraform, Docker, and Kubernetes.
-* 🤝  I'm open to collaborating on Web3 projects
+* 🧠  I'm always learning and improving my IT skills.
+* 🤝  I'm currently adopting AI tools such as Claude, Gemini, Copilot, and ChatGPT to simplify my work.
 * ⚡  I am a loyal tennis fan and an ardent learner. I am always learning new things every day.
 
 <a href="https://www.twitter.com/VictoriaAsuqu19" target="_blank" rel="noreferrer"><img
